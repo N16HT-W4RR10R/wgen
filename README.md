@@ -1,0 +1,2 @@
+# wgen
+Wordlist Generator
